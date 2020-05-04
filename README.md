@@ -1,24 +1,22 @@
-# video-browser
+# Video Browser
 
-## Project setup
-```
-npm install
-```
+## Application Link
+https://messmania.github.io/Video-Browser-Website/
+- App can either be accessed via above link or build locally.
+- To build the app locally, follow steps under local setup.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Prerequisites
+- None
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Local setup
+- Clone the repo onto your local machine.
+- Get inside the folder: `cd Video-Browser-Website`
+- Install all the dependencies:
+  ```
+  npm install
+  ```
+- Build the project and launch
+  ```
+  npm run serve
+  ```
+- App should now be accessible at: `https://localhost:8080/`
