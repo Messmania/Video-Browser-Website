@@ -1,11 +1,10 @@
 # Video Browser
 
 ## Application Link
-https://messmania.github.io/Video-Browser-Website/
-- App can either be accessed via above link or build locally.
+- App can either be accessed via this [link](https://messmania.github.io/Video-Browser-Website) or build locally.
 - To build the app locally, follow steps under local setup.
 
-## Prerequisites
+## Pre-requisites
 - None
 
 ## Local setup
